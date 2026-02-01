@@ -1,3 +1,7 @@
+/*
+    @author Magizhnun
+    @version 1.0.0
+*/
 import {
     LogError
 } from './errors.js';
@@ -193,4 +197,5 @@ function data(a) { return a.map(x => ` data-${x.key}="${x.value}"`).join(''); }
 function classes(a) { return a.length ? ` class="${a.join(' ')}"` : ''; }
 function ids(a) { return a.length ? ` id="${a.join(' ')}"` : ''; }
 function props(a) { return a.map(x => ` ${x.key}="${x.value}"`).join(''); }
+
 
