@@ -1,16 +1,9 @@
-html:
-	head:;
-	body:
-		div: dataset{id: hfsUFjhfuhfuxe2b346}
-			classes{t,e,s,t}
-			ids{t,e,s,t}
-			props{contenteditable:true}
-			styles{padding:12px}
-			content{hi}
-		;
-	;
+import card from "card.webf";
+
+card:
 ;
 
+r:;
 
 
 
