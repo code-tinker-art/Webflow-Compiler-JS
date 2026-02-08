@@ -1,3 +1,0 @@
-C:\EcoSys\Sample\HTML\Magizhnun\Projects\Custom projects\Custom language\Github\Github - JS\Webflow\obj\Debug\Webflow.njsproj.AssemblyReference.cache
-C:\EcoSys\Sample\HTML\Magizhnun\Projects\Custom projects\Custom language\Github\Github - JS\Webflow\obj\Debug\Webflow.njsproj.CoreCompileInputs.cache
-C:\EcoSys\Sample\HTML\Magizhnun\Projects\Custom projects\Custom language\Github\Github - JS\Webflow\bin\Microsoft.NodejsTools.WebRole.dll

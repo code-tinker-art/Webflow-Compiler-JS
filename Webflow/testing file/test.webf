@@ -1,6 +1,0 @@
-button: 
-	props{
-		type:submit,
-		onclick:doSomething()
-	}
-;
