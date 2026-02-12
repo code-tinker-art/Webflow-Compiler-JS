@@ -4,7 +4,8 @@
   "description": "Webflow",
   "main": "app.js",
   "author": {
-    "name": "S.S.Magizhnun"
+    "name": "S.S.Magizhnun",
+    "age" : "14"
   },
   "type": "module",
   "scripts": {
@@ -22,3 +23,4 @@
   ],
   "license": "ISC"
 }
+
